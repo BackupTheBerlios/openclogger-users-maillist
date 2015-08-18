@@ -1,0 +1,52 @@
+From nkilzer at gmail.com  Fri Oct 20 11:46:08 2006
+From: nkilzer at gmail.com (OpenClogger Administrator)
+Date: Fri, 20 Oct 2006 02:46:08 -0700
+Subject: [Openclogger-users] Mailing list test
+Message-ID: <45389AE0.2060207@lists.berlios.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+This is a test of the mailing list software.
+Please ignore this message.
+
+- --
+OpenClogger Administrator
+<openclogger-users at lists.berlios.de>
+GPG KeyID: 0x2FF7F0D5
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.5 (MingW32)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQFFOJrgPkkkNC/38NURAqzDAJ9+CaStOnuU+0MBpazN6ml0xv8etwCfVG1K
+W5fCK1OT+qMwIrhIKCBHyM8=
+=ugXA
+-----END PGP SIGNATURE-----
+
+
+From openclogger-announce at lists.berlios.de  Fri Oct 20 12:30:07 2006
+From: openclogger-announce at lists.berlios.de (OpenClogger Administrator)
+Date: Fri, 20 Oct 2006 03:30:07 -0700
+Subject: [Openclogger-users] OpenClogger Announcement Test
+Message-ID: <4538A52F.8030806@lists.berlios.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+This is a test of the signed announcement system.
+This is only a test.
+Please ignore this message.
+- --
+OpenClogger Administrator
+<openclogger-users at lists.berlios.de>
+GPG KeyID: 0x2FF7F0D5
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.5 (MingW32)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQFFOKUvPkkkNC/38NURArg5AKCc8ybc9z6cvX+7reLJOzdkeizbwgCaA+ZA
+e/LAo+l23Lqix1tmWz91xHc=
+=ypjg
+-----END PGP SIGNATURE-----
+
+
